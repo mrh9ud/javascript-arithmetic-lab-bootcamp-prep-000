@@ -26,7 +26,7 @@ function makeInt(a) {
   return parseInt("a", 10)
 }
 
-function makeInt2(a) {
+function makeInt(a) {
   return parseFloat("a")
 }
 
